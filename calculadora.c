@@ -36,6 +36,6 @@ int main () {
              printf("Opção invalida\n");    
    }
 
-    printf("Resultado: %.2lf\n", resultado); /**/
+    printf("Resultado: %.2lf\n", resultado); /*o ponto antes do 2 indica quantas casa decimais vão ser apresentadas*/
     return 0;
 }
