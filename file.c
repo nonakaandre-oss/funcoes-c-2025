@@ -3,7 +3,7 @@
 int main (){
    FILE *arquivo;
 
-   arquivo = fopen("teste.txt", "w");
+   arquivo = fopen("teste.txt", "w"); /*o W sempre sobrescreve o conteudo, W+ adiciona*/
 
    if(arquivo == NULL) {
     printf("Erro ao abrir o arquivo\n");
