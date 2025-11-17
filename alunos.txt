@@ -1,2 +1,2 @@
-andre;4
-8;5
+Andre;3
+rodrigo;6
